@@ -12,7 +12,7 @@ En este repositorio se alojará material de apoyo para los integrantes del grupo
 
 - [Matemáticas básicas](/maths) *(Andrés)*
 - [Programación](/programming) *(Josué)*
-- [Estadídtica y análisis de datos](/data_science) *(Jonnathan)*
+- [Estadística y análisis de datos](/data_science) *(Jonnathan)*
 - [Machine Learning](/machine_learning) *(Nelson)*
 - [Procesamiento de imágenes y señales](/signal_and_image_processing) *(Juan Celis)*
 - [Morfofisiología](/morphophysiology) *(Jully)*
